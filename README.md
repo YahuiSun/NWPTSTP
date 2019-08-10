@@ -6,7 +6,7 @@ These are the C++ codes and datasets for the Node-Weighted Partial Terminal Stei
 The codes are in the <b>PA_WSN.cpp</b> file. 
 
 <b>It is recommended to fold all the regions of codes for easy reading</b> (by pressing Ctrl+M+O in VisualStudio)：
-1) the codes for our PSTA algorithm are in the "PSTA" region, i.e., the codes below "/*PSTA*/".
+1) the codes for our PSTA algorithm are in the "PSTA" region, i.e., the codes below "/\*PSTA\*/".
 2) the codes for the GKA algorithm are in the "Guha_16103" region.
 3) the codes for the RRPL and OSRP algorithms are in the "two relay node placement algorithms" region.
 4) the codes for the experiments in our paper are in the "experiments" region.
