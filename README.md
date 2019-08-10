@@ -27,8 +27,6 @@ int main()
 	getchar();
 }
 
-The experiment results will be saved into 20 csv files.
-
 To read these C++ codes in detail, I suggest to start from the "non_parallel_experiments" region. You may then trace the more detailed codes in regions like "PSTA" etc. It takes some time to look through all these codes. For any enquiry, please feel free to contact Yahui SUN: https://yahuisun.com 
 
 # Datasets
