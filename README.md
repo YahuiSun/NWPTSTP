@@ -11,7 +11,7 @@ The codes are in the <b>PA_WSN.cpp</b> file.
 3) the codes for the RRPL and OSRP algorithms are in the "two relay node placement algorithms" region.
 4) the codes for the experiments in our paper are in the "experiments" region.
 
-Running these codes requires some header files in the Boost library: https://www.boost.org/ , such as "#include <boost/graph/adjacency_list.hpp>", and some header files in my own YS-Graph-Library: https://github.com/YahuiSun/YS-Graph-Library , such as "#include <read_csv.h>".
+Running these codes requires some header files in the Boost library: https://www.boost.org/ and my own YS-Graph-Library: https://github.com/YahuiSun/YS-Graph-Library .
 
 After making the header files ready, all the experiment results in our paper can be produced by runnning the codes in the "non_parallel_experiments" region, i.e., you can run:
 
