@@ -35,7 +35,7 @@ These are 6000 instances for NWPTSTP in total.
 
 The optimal solution costs of these instances are in the "opt6000_single_column.csv" file.
 
-These instances are randomly generated for the minimum-cost relay node placement experiments in our paper, and can be transformed to instances for the Node-Weighted Steiner Tree Problem (NWSTP) using an Theorem in our paper. 
+These instances are randomly generated for the minimum-cost relay node placement experiments in our paper, and can be transformed to instances for the Node-Weighted Steiner Tree Problem (NWSTP) using a theorem in our paper. 
 
 
 
