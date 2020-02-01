@@ -1,4 +1,8 @@
-These are the C++ codes and datasets for the Node-Weighted Partial Terminal Steiner Tree Problem (NWPTSTP). For any enquiry, please feel free to contact Yahui SUN: https://yahuisun.com 
+These are the C++ codes and datasets for the Node-Weighted Partial Terminal Steiner Tree Problem (NWPTSTP) in our paper:
+
+Yahui Sun, Daniel Rehfeldt, Marcus Brazil, Doreen Thomas, and Saman Halgamuge. “A Physarum-inspired algorithm for minimum-cost relay node placement in wireless sensor networks” IEEE/ACM Transactions on Networking (2020)
+
+For any enquiry, please feel free to contact Yahui SUN: https://yahuisun.com 
 
 
 # C++ Codes
