@@ -2,7 +2,7 @@ These are the C++ codes and datasets for the Node-Weighted Partial Terminal Stei
 
 Yahui Sun, Daniel Rehfeldt, Marcus Brazil, Doreen Thomas, and Saman Halgamuge. “A Physarum-inspired algorithm for minimum-cost relay node placement in wireless sensor networks” IEEE/ACM Transactions on Networking (2020)
 
-For any enquiry, please feel free to contact Yahui SUN: https://yahuisun.com 
+For any enquiry, please feel free to contact Yahui SUN: yahuisun@outlook.com
 
 
 # C++ Codes
@@ -33,7 +33,7 @@ int main()
 	getchar();
 }
 
-To read these C++ codes in detail, I suggest to start from the "non_parallel_experiments" region. You may then trace the more detailed codes in regions like "PSTA" etc. It takes some time to look through all these codes. For any enquiry, please feel free to contact Yahui SUN: https://yahuisun.com 
+To read these C++ codes in detail, I suggest to start from the "non_parallel_experiments" region. You may then trace the more detailed codes in regions like "PSTA" etc. It takes some time to look through all these codes. For any enquiry, please feel free to contact Yahui SUN: yahuisun@outlook.com 
 
 # Datasets
 
